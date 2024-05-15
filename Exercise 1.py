@@ -16,4 +16,4 @@ printing out that many copies of the previous message'''
 
 new_num = int(input("Enter new number: "))
 #failed to print on next line multiple statements
-print(name + " you will turn 100 in " + age_100_str, end="\n" *new_num)
+print(name + " you will turn 100 in " + age_100_str, end="\n" *new_num) 
